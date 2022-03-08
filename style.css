@@ -58,9 +58,12 @@ body {
     margin-left: 45%;
   }
   
+
   #Edit,
-  #Delete,
-  #New {
+
+#Delete,
+
+#New {
     border-radius: 10%;
     font-size: 90%;
   }
